@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Djeelika
-- 👀 I’m interested in ... The global world :)
+- 👀 I’m interested in ... global world :)
 - 🌱 I’m currently learning ...Neural networks
 - 💞️ I’m looking to collaborate on ... in programming
 - 📫 How to reach me ...
